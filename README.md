@@ -1,2 +1,3 @@
 # Hello world!
-# I am Gureev812, interested in math, data analysis, data science and AI!
+# Gureev812 is on touch! 
+# I'm interested in math, data analysis, data science and AI!
